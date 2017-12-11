@@ -10,7 +10,7 @@ Make and commit changes
 _pencil_ *icon* **in the** upper right corner of the file view to edit.
 In the editor, write a bit about yourself.
 <code>Write a commit message that describes your changes.
-Click Commit changes button.<code>
+Click Commit changes button.</code>
 
 Here are just some examples.
 
